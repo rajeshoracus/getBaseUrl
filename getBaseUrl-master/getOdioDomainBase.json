@@ -4,10 +4,10 @@
 	"uaeDomain": "wom55xm703.execute-api.eu-west-2.amazonaws.com",
 	"domain_class1": {
 		"name": "wom55xm703.execute-api.eu-west-2.amazonaws.com",
-		"op_code": [3333]
+		"op_code": []
 	},
 	"domain_class2": {
 		"name": "wom55xm703.execute-api.eu-west-2.amazonaws.com",
-		"op_code": []
+		"op_code": [3333]
 	}
 }
