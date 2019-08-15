@@ -1,13 +1,13 @@
 {
-	"apiDomain": "64vnl3azsf.execute-api.eu-west-2.amazonaws.com",
-	"gaeDomain": "64vnl3azsf.execute-api.eu-west-2.amazonaws.com",
-	"uaeDomain": "64vnl3azsf.execute-api.eu-west-2.amazonaws.com",
+	"apiDomain": "z2k78f9lme.execute-api.eu-west-2.amazonaws.com",
+	"gaeDomain": "z2k78f9lme.execute-api.eu-west-2.amazonaws.com",
+	"uaeDomain": "z2k78f9lme.execute-api.eu-west-2.amazonaws.com",
 	"domain_class1": {
-		"name": "64vnl3azsf.execute-api.eu-west-2.amazonaws.com",
+		"name": "z2k78f9lme.execute-api.eu-west-2.amazonaws.com",
 		"op_code": [20535,37112,83824]
 	},
 	"domain_class2": {
-		"name": "64vnl3azsf.execute-api.eu-west-2.amazonaws.com",
+		"name": "gvetfdbhb9.execute-api.eu-west-2.amazonaws.com",
 		"op_code": [2244]
 	}
 }
