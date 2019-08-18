@@ -1,7 +1,7 @@
 {
-	"apiDomain": "z2k78f9lme.execute-api.eu-west-2.amazonaws.com",
-	"gaeDomain": "z2k78f9lme.execute-api.eu-west-2.amazonaws.com",
-	"uaeDomain": "z2k78f9lme.execute-api.eu-west-2.amazonaws.com",
+	"apiDomain": "snlqg71ahi.execute-api.eu-west-2.amazonaws.com",
+	"gaeDomain": "snlqg71ahi.execute-api.eu-west-2.amazonaws.com",
+	"uaeDomain": "snlqg71ahi.execute-api.eu-west-2.amazonaws.com",
 	"domain_class1": {
 		"name": "snlqg71ahi.execute-api.eu-west-2.amazonaws.com",
 		"op_code": [2244,20535,37112,83824]
